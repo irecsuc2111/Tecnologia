@@ -3,4 +3,7 @@
 
 __1º Proyecto (Mapa Jaen)__
 
-![Mapa Jaén](Imágenes/Mapa_jaen.jpg)
+__Mi diseño del soporte para el mapa:__
+
+<img src="Imágenes/Mapa_jaen.jpg" width="350" height="400" />
+
