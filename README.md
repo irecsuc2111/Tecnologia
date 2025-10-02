@@ -29,6 +29,8 @@ __2º Proyecto (Invernadero)__
 
 __Mi diseño del ivernadero:__
 
+<img src="Imágenes/delante.jpg" width="400" height="350" />        <img src="Imágenes/atras.jpg" width="400" height="350" />  
+
 
 
 
