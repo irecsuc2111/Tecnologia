@@ -17,5 +17,20 @@ las mesas mas grandes son de 1,60 m de largo y 80 cm de ancho, aqui tenemos el p
 -El segundo paso es que quieren que el mapa se vea inclinado para una buena exposición al publico,
 por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujetar muebles poniendolos cada uno en cada lado del mapa para que haya un grado de inclinación pero no excesivo.
 
--No queremos que con la inclinación se vea la parte de abajo del mapa 
+-No queremos que con la inclinación se vea la parte de abajo del mapa por eso con con unas tablas de madreras pintadas de unos 10 cm de alto lo pondriamos poner alrededor del mapa atornillados.
+
+## Presupuesto para el mapa:
+
+
+
+
+
+__2º Proyecto (Invernadero)__
+
+__Mi diseño del ivernadero:__
+
+
+
+
+
 
