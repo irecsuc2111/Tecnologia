@@ -46,4 +46,9 @@ __Mi diseño del ivernadero:__
 <img src="Imágenes/puerta.jpg" width="400" height="400" />
 </p>
 
+<img src="Imágenes/dentro.jpg" width="400" height="350" />      <img src="Imágenes/dentro (2).jpg" width="400" height="350" />
+
+<p align="center">
+<img src="Imágenes/dentro (1).jpg" width="400" height="400" />
+</p>
 
