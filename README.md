@@ -29,7 +29,7 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
 
 -Barra de metal: Gratis
 
--Metacrilato:
+-Metacrilato: 100$-160$
 
 -Tornillos: Gratis
 
@@ -51,4 +51,8 @@ __Mi diseño del ivernadero:__
 <p align="center">
 <img src="Imágenes/dentro (1).jpg" width="400" height="400" />
 </p>
+
+# __Mi propuesta:__
+
+
 
