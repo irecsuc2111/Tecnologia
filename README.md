@@ -19,8 +19,19 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
 
 -No queremos que con la inclinación se vea la parte de abajo del mapa por eso con con unas tablas de madreras pintadas de unos 10 cm de alto lo pondriamos poner alrededor del mapa atornillados.
 
+ __Imagenes de tinkercad:__
+ 
  __Presupuesto para el mapa:__
 
+-Mesas: Gratis
+
+-Tablas de madera: Gratis
+
+-Barra de metal: Gratis
+
+-Metacrilato:
+
+-Tornillos: Gratis
 
 
 
