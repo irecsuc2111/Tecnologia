@@ -46,13 +46,21 @@ __Mi diseño del ivernadero:__
 <img src="Imágenes/puerta.jpg" width="400" height="400" />
 </p>
 
+De la parte de afuera del invernadero me gustaria remodelar de primeras el plastico porque lleva mucho tiempo ya puesto y esta desgastado,
+la puerta como se ve esta caida
+
+
+
 <img src="Imágenes/dentro.jpg" width="400" height="350" />      <img src="Imágenes/dentro (2).jpg" width="400" height="350" />
 
 <p align="center">
 <img src="Imágenes/dentro (1).jpg" width="400" height="400" />
 </p>
+(El objetivo es remodelar el invernadero para volver a ponerlo en marcha despues de 5 años)
 
-# __Mi propuesta:__
+## Mi propuesta:
 
 
+Mi propuesta seria remodelar todo el invernadero porque esta en unas condiciones un poco miserables. Pero no cambiar la forma.
 
+Lo mas importante seria el plastico de encima porque lleva esta ya sin cuidado, algunasd tablas que hacen de soporte tambien porque estan demasiados invlinadas y podria caerse y causar un accidente 
