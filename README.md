@@ -89,6 +89,7 @@ Tablas de madera: Gratis
 
 Rejillas de metal:
 
+Lona: 5-10€
 
 
 
