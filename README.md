@@ -69,7 +69,13 @@ El suelo lo quitaria y le pondria otro del mismo material (madera aglomerada).
 El hierro que hace de soporte para el plastico ya esta oxidado hay que cambiarlo por unos nuevo.
 Muchas de las maderas que hacen de soporte en el invernadero estan desgastadas y dobladas podiendo causar algun accidente tambien hay que cambiarlo.
 
+ __Imagenes de tinkercad:__
 
+ <img src="Imágenes/frente.png" width="400" height="350" />      <img src="Imágenes/lado (1).png" width="400" height="350" />
+
+<p align="center">
+<img src="Imágenes/arriba.png" width="400" height="400" />
+</p>
 
 
 __Presupuesto para el invernadero:__
