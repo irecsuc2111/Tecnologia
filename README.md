@@ -22,7 +22,9 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
  __Imagenes de tinkercad:__
 <img src="Imágenes/frontal.png" width="400" height="350" />     <img src="Imágenes/lado.png" width="400" height="350" />
 
- 
+ <p align="center">
+<img src="Imágenes/planta.png" width="400" height="400" />
+</p>
  __Presupuesto para el mapa:__
 
 -Mesas: Gratis
