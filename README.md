@@ -35,7 +35,7 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
 
 -Barra de metal: Gratis
 
--Metacrilato: 100$-160$
+-Metacrilato: 100$-160$ (Pacoprint.com)
 
 -Tornillos: Gratis
 
