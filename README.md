@@ -39,6 +39,7 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
 ## __2º Proyecto (Invernadero)__
 
 __Mi diseño del ivernadero:__
+(El objetivo es remodelar el invernadero para volver a ponerlo en marcha despues de 5 años)
 
 <img src="Imágenes/delante.jpg" width="400" height="350" />                <img src="Imágenes/atras.jpg" width="400" height="350" />  
 
@@ -46,8 +47,7 @@ __Mi diseño del ivernadero:__
 <img src="Imágenes/puerta.jpg" width="400" height="400" />
 </p>
 
-De la parte de afuera del invernadero me gustaria remodelar de primeras el plastico porque lleva mucho tiempo ya puesto y esta desgastado,
-la puerta como se ve esta caida
+Del exterior del invernadero lo mas importante a cambiar es el plastico ya lleva 5 años puesto y esta fatal habria que sustituirlo por uno nuevo, enfrente podemos ver la puerta del invernadero que esta caida, lo primero seria arreglar el suelo de la puerta para que haya soporte y despues volver a atornillar la puerta a la estructura para que haya un buen soporte, en la parte de atras del invernadero vamos areconstruirlo como estaba antes en un lateral tenemos una barra de metal que esta conectado con el invernadero en la parte de la izquierda vamos a hacer lo mismo con la misma barra de metal la vamos a poner en el lado una parte atornillada al invernadero y la otra la pegaremos al suelo con cemento y por ultimo una vez terminado la parte de atras entre las barras de metal pondremos una lona y se quedaria como un patio.
 
 
 
@@ -56,11 +56,18 @@ la puerta como se ve esta caida
 <p align="center">
 <img src="Imágenes/dentro (1).jpg" width="400" height="400" />
 </p>
-(El objetivo es remodelar el invernadero para volver a ponerlo en marcha despues de 5 años)
 
-## Mi propuesta:
+Lo primero que me gustaria remodelar del interior seria el suelo porque de tanto tiempo hay esta desgastado, roto e inestables.
+El suelo lo quitaria y le pondria otro del mismo material (madera aglomerada). 
+El hierro que hace de soporte para el plastico ya esta oxidado hay que cambiarlo por unos nuevo.
+Muchas de las maderas que hacen de soporte en el invernadero estan desgastadas y dobladas podiendo causar algun accidente tambien hay que cambiarlo.
 
 
-Mi propuesta seria remodelar todo el invernadero porque esta en unas condiciones un poco miserables. Pero no cambiar la forma.
 
-Lo mas importante seria el plastico de encima porque lleva esta ya sin cuidado, algunasd tablas que hacen de soporte tambien porque estan demasiados invlinadas y podria caerse y causar un accidente 
+
+__Presupuesto para el invernadero:__
+
+
+
+
+
