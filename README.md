@@ -45,6 +45,7 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
 ## __2º Proyecto (Invernadero)__
 
 __Mi diseño del ivernadero:__
+
 (El objetivo es remodelar el invernadero para volver a ponerlo en marcha despues de 5 años)
 
 <img src="Imágenes/delante.jpg" width="400" height="350" />                <img src="Imágenes/atras.jpg" width="400" height="350" />  
