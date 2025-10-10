@@ -82,8 +82,11 @@ __Presupuesto para el invernadero:__
 
 
 Madera aglomerada:
+
 Lona de plástico: 20-30€
+
 Tablas de madera: Gratis
+
 Rejillas de metal:
 
 
