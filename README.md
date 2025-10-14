@@ -91,6 +91,7 @@ Rejillas de metal:
 
 Lona: 5-10€
 
+Mallazo: Gratis
 
 # __Planificación:__
 
