@@ -39,7 +39,7 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
 
 -Tornillos: Gratis
 
-
+ __Planificación:__
 
 
 ## __2º Proyecto (Invernadero)__
