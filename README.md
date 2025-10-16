@@ -41,6 +41,9 @@ por lo que nuestra idea es reutilizar 2 soprtes de metal que se usan para sujeta
 
 # __Planificación:__
 
+<p align="center">
+<img src="Imágenes/planificacion_mapa.png" width="600" height="500" />
+</p>
 
 ## __2º Proyecto (Invernadero)__
 
