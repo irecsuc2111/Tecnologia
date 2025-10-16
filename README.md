@@ -95,3 +95,6 @@ Mallazo: Gratis
 
 # __Planificación:__
 
+<p align="center">
+<img src="Imágenes/planificacion_inv.png" width="600" height="500" />
+</p>
