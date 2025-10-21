@@ -1,7 +1,27 @@
 # Electronica Basica.
 
-_Diodo_
+__Resistencias Fijas:__
 
+
+
+__Resistencias Variables:__
+
+
+
+__Condensadores:__
+
+
+
+__Diodo:__
+
+
+
+__Diodos LED:__
+
+
+
+
+__Transitores:__
 
 
 
