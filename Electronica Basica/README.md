@@ -1,5 +1,10 @@
 # Electronica Basica.
 
+_Diodo_
+
+
+
+
 
 
 
