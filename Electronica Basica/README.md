@@ -2,7 +2,7 @@
 
 __Resistencias Fijas:__
  <p align="center">
-<img src="Imágenes/resistencia_fijas (1).avif" width="400" height="400" />
+<img src="Imagenes/resistencia_fijas (1).avif" width="400" height="400" />
 </p>
 
 
