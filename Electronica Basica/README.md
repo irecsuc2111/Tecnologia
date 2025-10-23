@@ -34,14 +34,35 @@
 
 ### __Diodo:__
 
+ <p align="center">
+<img src="Imagenes/diodo.webp" width="400" height="400" />
+</p>  
+
+ <p align="center">
+<img src="Imagenes/simbolo_condensador.webp" width="400" height="400" />
+</p>  
 
 
 ### __Diodos LED:__
 
+ <p align="center">
+<img src="Imagenes/diodos-colores.jpg" width="400" height="400" />
+</p>  
+
+ <p align="center">
+<img src="Imagenes/simbolo_condensador.webp" width="400" height="400" />
+</p>  
 
 
 
 ### __Transitores:__
+ <p align="center">
+<img src="Imagenes/transitores.jpg" width="400" height="400" />
+</p>  
+
+ <p align="center">
+<img src="Imagenes/simbolo_condensador.webp" width="400" height="400" />
+</p>  
 
 
 imagen del componente
