@@ -39,7 +39,7 @@
 </p>  
 
  <p align="center">
-<img src="Imagenes/simbolo_condensador.webp" width="400" height="400" />
+<img src="Imagenes/simbolo_diodo.png" width="400" height="400" />
 </p>  
 
 
