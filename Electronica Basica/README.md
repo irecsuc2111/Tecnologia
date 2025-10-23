@@ -6,7 +6,7 @@ __Resistencias Fijas:__
 </p>
 
  <p align="center">
-<img src="Imagenes/simbolo_resistencia.jpg" width="400" height="400" />
+<img src="Imagenes/simbolo_resisitencia.jpg" width="400" height="400" />
 </p>
 
 
