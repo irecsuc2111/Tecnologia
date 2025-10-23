@@ -12,7 +12,7 @@
 ### __Resistencias Variables:__
 
  <p align="center">
-<img src="Imagenes/resistencia_fijas (1).avif" width="400" height="400" height="400" />                                                     </p>
+<img src="Imagenes/resistencias_variables.jpg" width="400" height="400" height="400" />                                                     </p>
  
  
  <p align="center">
