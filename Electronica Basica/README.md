@@ -23,7 +23,13 @@
 
 
 ### __Condensadores:__
+ <p align="center">
+<img src="Imagenes/condensador.jpg" width="400" height="400" />
+</p>  
 
+ <p align="center">
+<img src="Imagenes/simbolo_condensador.webp" width="400" height="400" />
+</p>  
 
 
 ### __Diodo:__
