@@ -98,7 +98,7 @@ Lo usamos para hacer circuitos basico en clase
 </p>  
 
  <p align="center">
-<img src="Imagenes/simbolo_condensador.webp" width="400" height="400" />
+<img src="Imagenes/transitor_simbolo.webp" width="400" height="400" />
 </p>  
 
 ### __Como funciona:__ 
@@ -109,11 +109,6 @@ Sirven para amplificar o conmutar señales eléctricas, actuando como interrupto
 
 
 
-imagen del componente
- como funcionan
-simbolo electrico
-para que sirve
-como lo usamos en clase
 
 
 
