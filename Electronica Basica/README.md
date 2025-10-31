@@ -109,6 +109,9 @@ Sirven para amplificar o conmutar señales eléctricas, actuando como interrupto
 
 
 
+# Circuitos de funcionamiento
+
+
 
 
 
