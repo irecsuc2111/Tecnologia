@@ -111,7 +111,7 @@ Sirven para amplificar o conmutar señales eléctricas, actuando como interrupto
 
 # Circuitos de funcionamiento
 
-
+### _Encendido de led con un transitor:_
 
 
 
