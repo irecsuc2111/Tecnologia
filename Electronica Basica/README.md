@@ -111,10 +111,22 @@ Sirven para amplificar o conmutar señales eléctricas, actuando como interrupto
 
 # Circuitos de funcionamiento
 
-### _Encendido de led con un transitor:_
+## _Encendido de led con un transitor:_
+
+ <p align="center">
+<img src="Imagenes/Captura de pantalla 2025-11-03 175134.png" width="500" height="500" />
+</p>  
+
+### Funcionamineto:
 
 
+## _Cambio de sentido de un motor mediante un rele:_
 
+<p align="center">
+<img src="Imagenes/Captura de pantalla 2025-11-03 175230.png" width="500" height="500" />
+</p>  
+
+### Funcionamineto:
 
 
 # Electronica Digital.
