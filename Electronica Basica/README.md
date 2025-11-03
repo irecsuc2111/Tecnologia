@@ -117,7 +117,10 @@ Sirven para amplificar o conmutar señales eléctricas, actuando como interrupto
 <img src="Imagenes/Captura de pantalla 2025-11-03 175134.png" width="500" height="500" />
 </p>  
 
-### Funcionamineto:
+### Funcionamineto:    
+-En este circuito estamos usando una pila de 4,5 voltios, un led, dos ressistencias una de 200 amperios y otra de 1800 amperios, un pulsador, un transitor NPN y un condensador poliradizado.
+
+-El funcionamineto del circuito es que cuando alguien mantiene pulsado el pulsador permite que circule corriente por la base del transitor haciendo que se encienda el led y que el condensador almacene energia, una vez el pulsador deja de ser pulsado el led va perdiendo su luz y no se apaga instantaneo esto es porque el condensador sigue teniendo energia de antes y la va perdiendo poco a poco haciendo que aun pase por la base del transitor y le llegue al led que va a estar perdiendo intensidad hasta que el condensador se quede sin energia.
 
 
 ## _Cambio de sentido de un motor mediante un rele:_
