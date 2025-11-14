@@ -152,7 +152,9 @@ Sirven para amplificar o conmutar señales eléctricas, actuando como interrupto
 
 # Electronica Digital.
 
-## _-Las puertas logicas:_
+La electronica digital se basa en el empleo de componenetes que solo admiten dos estados: abiertos o cerrado, apagado o encendido, 0 o 1
+
+,## _-Las puertas logicas:_
 
 | First Header  | Second Header |
 | ------------- | ------------- |
