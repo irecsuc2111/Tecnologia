@@ -148,7 +148,7 @@ Sirven para amplificar o conmutar señales eléctricas, actuando como interrupto
 ### Funcionamineto:
 -En este circuito estamos usando dos pilas una de 6 voltios y otra de 9 voltios, un LDR, un potenciometro, una resitencia, un transitor NPN, un diono un rele y un motor.
 
--El funcionamiento del circuito es que cuando el circuito se pone en marcha el motor esta funcionando dando vueltas en un sentido, cuando incide luz sobre el LDR la resisitencia disminuye haciendo que pase por la base del transitor y el diodo controle el exceso de corriente que se  produce al desacticarse el rele y el motor gira hacia el otro sentido
+-El funcionamiento del circuito es que cuando el circuito se pone en marcha el motor esta funcionando dando vueltas en un sentido, cuando incide luz sobre el LDR la resisitencia disminuye haciendo que pase por la base del transitor y el diodo controle el exceso de corriente que se  produce al desacticarse el rele y el motor gira hacia el otro sentido.
 
 # Electronica Digital.
 
