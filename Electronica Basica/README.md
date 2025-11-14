@@ -1,4 +1,4 @@
-# Electronica Basica.
+# Electronica Analogica.
 
 ## __-Resistencias Fijas:__
 <p align="center">
