@@ -159,7 +159,7 @@ Las puertas logicas son componenetes capaces de realizar operaciones sencillas c
 
 Las puertas logicas mas importantes son las las  __NOT__, __OR__, __AND__, __NOR__, __NAND__ Y __OR exclusiva__.
 
-Cada una de las puertas logicas tiene su __tabla de verdad__ que es una tabla en dodne se pone los valores de de 0 o 1 y dependiendo de que puerta usemos nos sladra un valor diferente.
+Cada una de las puertas logicas tiene su __tabla de verdad__ que es una tabla en donde se pone los valores de de 0 o 1 y dependiendo de que puerta usemos nos saldra un valor diferente.
 
 ## __-NOT(NO):__
 ### Simbolo:
