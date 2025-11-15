@@ -152,13 +152,17 @@ No lo hemos utilizado.
 
 # Electronica Digital.
 
-La electronica digital se basa en el empleo de componenetes que solo admiten dos estados: abiertos o cerrado, apagado o encendido, 0 o 1
+La electronica digital se basa en el empleo de componenetes que solo admiten dos estados: abiertos o cerrado, apagado o encendido, 0 o 1.
 
-,## _-Las puertas logicas:_
+## _-Las puertas logicas:_
+Las puertas logicas son componenetes capaces de realizar operaciones sencillas con ceros y unos.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Las puertas logicas mas importantes son las las  __NOT__, __OR__, __AND__, __NOR__, __NAND__ Y __OR exclusiva__.
+
+Cada una de las puertas logicas tiene su __tabla de verdad__ que es una tabla en dodne se pone los valores de de 0 o 1 y dependiendo de que puerta usemos nos sladra un valor diferente.
+
+## __-NOT(NO):__
+
+
 
 
