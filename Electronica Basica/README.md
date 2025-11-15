@@ -283,7 +283,22 @@ Si el numero de la entra es 1(abierto) la entra se deja igual con su letra.
 |      1       |       1        |       0       |    __1__    | 
 |      1       |       1        |       1       |    __1__    |
 
-__2.__ Se extraen las entradas en las que las salidas son positivas como una expresion logica
+__2.__ Se extraen las entradas en las que las salidas son positivas como una expresion logica.
 
 S= ab<sup>-</sup>c<sup>-</sup> + abc<sup>-</sup> + abc
 
+__3.__ Se simplifica empleando el __álgebra de Boole__
+
+__S__= ab<sup>-</sup>c<sup>-</sup> + abc<sup>-</sup> + abc=
+
+   a(b<sup>-</sup>c<sup>-</sup> + bc<sup>-</sup> + bc)=
+
+   a(b<sup>-</sup>c<sup>-</sup> + bc<sup>-</sup> + bc<sup>-</sup> + bc)=
+
+   a((b<sup>-</sup> + b) c<sup>-</sup> + b (c<sup>-</sup> + c))=
+
+   a(1c<sup>-</sup> + 1b)=
+
+   a(c<sup>-</sup> + b)=
+
+  El circuito resultante es:  __a(b + c<sup>-</sup>)__
