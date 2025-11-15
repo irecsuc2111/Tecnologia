@@ -284,5 +284,5 @@ __1.__
 
 __2.__ Se extraen las entradas en las que las salidas son positivas como una expresion logica
 
-S= a
+S= ab<sup>-</sup>c<sup>-</sup> + abc<sup>-</sup> + abc
 
