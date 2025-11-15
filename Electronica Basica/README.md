@@ -270,7 +270,8 @@ para simplificar circuitos nosotros usamos el __álgebra de Boole__.
 Hay que saber que cuando un numero es 0 (cerrado) a la entrada se le denomina con su letra y elevado a un menos.
 
 Si el numero de la entra es 1(abierto) la entra se deja igual con su letra.
-__1.__
+
+
 |      a       |       b        |       c       |      S      | 
 | -----------  |    ---------   |  -----------  | ----------- |
 |      0       |       0        |       0       |      0      |
