@@ -263,5 +263,26 @@ La salida solo vale 0 cuando ambas  entradas toman valor1.
 |      1       |       1        |       0       |
 
 
+## _-Simplificacion de circuitos:_
 
+para simplificar circuitos nosotros usamos el __álgebra de Boole__.
+
+Hay que saber que cuando un numero es 0 (cerrado) a la entrada se le denomina con su letra y elevado a un menos.
+
+Si el numero de la entra es 1(abierto) la entra se deja igual con su letra.
+__1.__
+|      a       |       b        |       c       |      S      | 
+| -----------  |    ---------   |  -----------  | ----------- |
+|      0       |       0        |       0       |      0      |
+|      0       |       0        |       1       |      0      |
+|      0       |       1        |       0       |      0      |
+|      0       |       1        |       1       |      0      |
+|      1       |       0        |       0       |    __1__    |
+|      1       |       0        |       1       |      0      |
+|      1       |       1        |       0       |    __1__    | 
+|      1       |       1        |       1       |    __1__    |
+
+__2.__ Se extraen las entradas en las que las salidas son positivas como una expresion logica
+
+S= a
 
