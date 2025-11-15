@@ -178,10 +178,90 @@ __Negación.__ La salida es la inversa de la entrada. Así, si entra un 1, sale 
 
 ## __-AND(Y):__
 ### Simbolo:
-<img src="Imagenes/not.png" width="400" height="400" />  
+<img src="Imagenes/AND.png" width="400" height="400" />  
 
 ### Función:                                                                                                             
 
-__Negación.__ La salida es la inversa de la entrada. Así, si entra un 1, sale un 0, y viceversa
+__Conjunción.__ La salida es 1 solo cuando las dos entradas adoptan el valor 1. Es decir, tiene que darse una __y__ otra.
+
+### Tabla de verdad:
+
+|      a       |       b        |       S       |
+| -----------  |    ---------   |  -----------  |
+|      0       |       0        |       0       |
+|      0       |       1        |       0       |
+|      1       |       0        |       0       |
+|      1       |       1        |       1       |
+
+## __-OR(O):__
+### Simbolo:
+<img src="Imagenes/OR.png" width="400" height="400" />  
+
+### Función:                                                                                                             
+
+__Disyunción.__ La salida es 1 caundo vale 1 cualquiera de sus entradas o ambas. Se dan asi una __u__ otra __o__ ambas.
+
+### Tabla de verdad:
+
+|      a       |       b        |       S       |
+| -----------  |    ---------   |  -----------  |
+|      0       |       0        |       0       |
+|      0       |       1        |       1       |
+|      1       |       0        |       1       |
+|      1       |       1        |       1       |
+
+## __-XOR(O exclusiva):__
+### Simbolo:
+<img src="Imagenes/XOR.png" width="400" height="400" />  
+
+### Función:                                                                                                             
+
+__Disyunción exclusiva.__ La salida es 1 cuando cualquiera de las entradas es 1, pero no ambas a la vez. O sea, se da, __o bien__ una, __o bien__ la otra.
+
+### Tabla de verdad:
+
+|      a       |       b        |       S       |
+| -----------  |    ---------   |  -----------  |
+|      0       |       0        |       0       |
+|      0       |       1        |       1       |
+|      1       |       0        |       1       |
+|      1       |       1        |       0       |
+
+
+## __-NOR(O negada):__
+### Simbolo:
+<img src="Imagenes/NOR.png" width="400" height="400" />  
+
+### Función:                                                                                                             
+
+La salida es 1 solo cuando las dos entradas valen 0.
+
+### Tabla de verdad:
+
+|      a       |       b        |       S       |
+| -----------  |    ---------   |  -----------  |
+|      0       |       0        |       1       |
+|      0       |       1        |       0       |
+|      1       |       0        |       0       |
+|      1       |       1        |       0       |
+
+## __-NAND(Y negada):__
+### Simbolo:
+<img src="Imagenes/NOR.png" width="400" height="400" />  
+
+### Función:                                                                                                             
+
+La salida solo vale 0 cuando ambas  entradas toman valor1.
+
+### Tabla de verdad:
+
+|      a       |       b        |       S       |
+| -----------  |    ---------   |  -----------  |
+|      0       |       0        |       1       |
+|      0       |       1        |       0       |
+|      1       |       0        |       0       |
+|      1       |       1        |       0       |
+
+
 
 
