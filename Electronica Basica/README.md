@@ -120,9 +120,9 @@ No lo hemos utilizado.
 </p>  
 
 ### __Como funciona:__ 
-Funcionan como interruptores o amplificadores de señales eléctricas.
+
 ### __Para que sirve:__ 
-Sirven para amplificar o conmutar señales eléctricas, actuando como interruptores electrónicos que controlan el flujo de corriente en un circuito.
+
 ### __Como lo usamos en clase:__ 
 
 # Circuitos de funcionamiento
