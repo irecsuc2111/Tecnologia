@@ -69,7 +69,7 @@ Uan no lo hemos utilizado en clase
 Funciona permitiedo pasar los electrones en un sentido y no en el otro sentido.
 
 ### __Para que sirve:__ 
-
+Sirven para controlar la cantidad de electrones que pasa por un circuito y evitar cortocircuito.
 
 ### __Como lo usamos en clase:__ 
 No lo hemos usado en clase.
