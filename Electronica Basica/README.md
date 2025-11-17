@@ -28,6 +28,7 @@ En clase las usamos para hacer montajes simples como el encendido de un diodo le
 </p>      
 
 ### __Como funciona:__ 
+Las resistencias variables funcionan modificando el valor de resistencia de un circuito
 
 ### __Para que sirve:__ 
 Sirven para controlar la intensidad de brillo de una lamapara, la velocidad de giro de un motor o el volumen de un altavoz...
