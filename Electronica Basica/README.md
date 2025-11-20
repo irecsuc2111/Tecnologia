@@ -303,3 +303,8 @@ __S__= ab<sup>-</sup>c<sup>-</sup> + abc<sup>-</sup> + abc=
    a(c<sup>-</sup> + b)=
 
   El circuito resultante es:  __a(b + c<sup>-</sup>)__
+
+
+# Circuito encendido de led con puertas logicas.
+
+
