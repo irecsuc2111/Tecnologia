@@ -166,6 +166,7 @@ Cada una de las puertas logicas tiene su __tabla de verdad__ que es una tabla en
 ### Simbolo:
 <img src="Imagenes/not.png" width="400" height="400" />  
 
+
 ### Función:                                                                                                             
 
 __Negación.__ La salida es la inversa de la entrada. Así, si entra un 1, sale un 0, y viceversa
