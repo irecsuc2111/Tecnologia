@@ -222,7 +222,7 @@ __Disyunción.__ La salida es 1 caundo vale 1 cualquiera de sus entradas o ambas
 
 |       Simbolo            |       Disposición interna  |
 | -------------            |      -------------         |
-|      <img src="Imagenes/XOR.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_xor_int" width="400" height="400" />                    |
+|      <img src="Imagenes/XOR.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_xor_int.png" width="400" height="400" />                    |
 
 
 ### Función:                                                                                                             
@@ -244,7 +244,7 @@ __Disyunción exclusiva.__ La salida es 1 cuando cualquiera de las entradas es 1
 
 |       Simbolo            |       Disposición interna  |
 | -------------            |      -------------         |
-|      <img src="Imagenes/NOR.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_nor_int" width="400" height="400" />                    |
+|      <img src="Imagenes/NOR.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_nor_int.png" width="400" height="400" />                    |
 
 ### Función:                                                                                                             
 
@@ -260,12 +260,11 @@ La salida es 1 solo cuando las dos entradas valen 0.
 |      1       |       1        |       0       |
 
 ## __-NAND(Y negada):__
-### Simbolo:
-<img src="Imagenes/NAND.png" width="400" height="400" />  
+
 
 |       Simbolo            |       Disposición interna  |
 | -------------            |      -------------         |
-|      <img src="Imagenes/NAND.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_nand_int" width="400" height="400" />                    |
+|      <img src="Imagenes/NAND.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_nand_int.png" width="400" height="400" />                    |
 
 
 ### Función:                                                                                                             
