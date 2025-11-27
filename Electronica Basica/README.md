@@ -336,5 +336,5 @@ En mi caso me toco una puerta __NAND__ como esta explicado antes esta puerta la 
 
 Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entradas asique le hemos conectado dos pulsador, y siguiendo la logica de antes la salida solo va a ser 1 cuando no este ningun pulsador presionado, en el momento en el que un pulsador se presione esta dejara de brillar.
 
-# Circuito encendido de led con puerta logicas.
+# Circuito puerta logica con LDR.
 
