@@ -322,6 +322,14 @@ __S__= ab<sup>-</sup>c<sup>-</sup> + abc<sup>-</sup> + abc=
   El circuito resultante es:  __a(b + c<sup>-</sup>)__
 
 
-# Circuito encendido de led con puertas logicas.
+# Circuito encendido de led con puerta logicas.
 
+ <p align="center">
+<img src="Imagenes/encendido_led_pur.jpg" width="500" height="500" />
+</p>  
+
+### Función:  
+
+
+# Circuito encendido de led con puerta logicas.
 
