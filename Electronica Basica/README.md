@@ -163,12 +163,12 @@ Las puertas logicas mas importantes son las las  __NOT__, __OR__, __AND__, __NOR
 Cada una de las puertas logicas tiene su __tabla de verdad__ que es una tabla en donde se pone los valores de de 0 o 1 y dependiendo de que puerta usemos nos saldra un valor diferente.
 
 ## __-NOT(NO):__
-### Simbolo:
-<img src="Imagenes/not.png" width="400" height="400" />  
+
+
 
 |       Simbolo            |       Disposición interna  |
 | -------------            |      -------------         |
-|      <img src="Imagenes/not.png" width="400" height="400" />                   |      <img src="Imagenes/not.png" width="400" height="400" />                    |
+|      <img src="Imagenes/not.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_not-int.png" width="400" height="400" />                    |
 
 
 ### Función:                                                                                                             
@@ -200,8 +200,9 @@ __Conjunción.__ La salida es 1 solo cuando las dos entradas adoptan el valor 1.
 |      1       |       1        |       1       |
 
 ## __-OR(O):__
-### Simbolo:
-<img src="Imagenes/OR.png" width="400" height="400" />  
+|       Simbolo            |       Disposición interna  |
+| -------------            |      -------------         |
+|      <img src="Imagenes/or.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_or_int.png" width="400" height="400" />                    |
 
 ### Función:                                                                                                             
 
