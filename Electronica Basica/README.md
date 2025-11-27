@@ -166,6 +166,10 @@ Cada una de las puertas logicas tiene su __tabla de verdad__ que es una tabla en
 ### Simbolo:
 <img src="Imagenes/not.png" width="400" height="400" />  
 
+|       Simbolo            |       Disposición interna  |
+| -------------            |      -------------         |
+|      <img src="Imagenes/not.png" width="400" height="400" />                   |      <img src="Imagenes/not.png" width="400" height="400" />                    |
+
 
 ### Función:                                                                                                             
 
