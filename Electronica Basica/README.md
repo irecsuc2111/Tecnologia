@@ -338,5 +338,9 @@ Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entra
 
 # Circuito puerta logica con LDR.
 
+|       Simbolo            |       Disposición interna  |
+| -------------            |      -------------         |
+|      <img src="Imagenes/Circuito_ldr-.jpg" width="400" height="400" />                   |      <img src="Imagenes/circuito_ldr_tink.png" width="400" height="400" />                    |
+
 
 
