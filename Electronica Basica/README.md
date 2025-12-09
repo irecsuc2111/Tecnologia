@@ -343,4 +343,6 @@ Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entra
 |      <img src="Imagenes/Circuito_ldr-.jpg" width="400" height="400" />                   |      <img src="Imagenes/circuito_ldr_tink.png" width="800" height="800" />                    |
 
 
+### Explicación:  
+
 
