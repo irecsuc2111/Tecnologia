@@ -342,13 +342,28 @@ Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entra
 | -------------            |      -------------         |
 |      <img src="Imagenes/Circuito_ldr-.jpg" width="400" height="400" />                   |      <img src="Imagenes/circuito_ldr_tink.png" width="800" height="800" />                    |
 
+
+
 |       Simbolo            |    
 | -------------            |     
-|  <img src="Imagenes/compuertas-logicas.png" width="400" height="400" />           |      
+|  <img src="Imagenes/compuertas-logicas (1).png" width="300" height="300" /> |      
+
+### Tabala de verdad:
 
 
+|      a       |       b        |       c       |      S      | 
+| -----------  |    ---------   |  -----------  | ----------- |
+|      0       |       0        |       0       |      0      |
+|      0       |       0        |       1       |      1      |
+|      0       |       1        |       0       |      1      |
+|      0       |       1        |       1       |      0      |
+|      1       |       0        |       0       |      1      |
+|      1       |       0        |       1       |      0      |
+|      1       |       1        |       0       |      0      | 
+|      1       |       1        |       1       |      0      |
 
-### Explicación: 
+
+### Explicación del circuito: 
 
 
 
