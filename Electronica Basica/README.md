@@ -378,9 +378,31 @@ Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entra
 El objetivo de este circuito es que con la ayuda del __LDR__ y dos __pulsadores__ mediante 3 puertas logicas que haga funcionar el __diodo led__.
 
 
-Como se ve en este circuito estamos usuando __3 puertas logicas__ una __OR__, una __NOT__ y una __AND__.
+En este circuito vamos a usar una pila de __4,5 voltios__ (en este caso), dos __pulsadores__, cuatro __resistencias__, una __LDR__, un __diodo led__ y tres __puertas logicas__.
 
-De primeras tenemos 2 __pulsadores__ que estan conectados en la puerta logica __OR__ la salida suya ira hacia la __AND__  y la otra puerta logica __NOT__ 
+
+-La pila el lado __positivo__ va conectado a la parte de arriba de la placa y la parte __negativa__ hacia la parte de abajo de la placa, asi ya tenemos toda la placa alimentada.
+
+-Tenemos los dos __pulsadores__ donde un lado esta conecta a los __5 voltios__ (el lado de arriba) y el otra a una __resistencia__ hacia __GND__  y esos dos pulsadores van conectados a las primeras entradas de la puerta logica __OR__.
+
+-La salida de la __OR__ con los dos pulsadores va conectado su salida con la entrada de la __AND__.
+
+__(todas las puertas logicas un lado esta conectado a 5 voltios y otro a gnd)__
+
+-El sensor __LDR__ un extremo va conectado a __5 voltios__ y el otro extremo va a una __resistencia__ que va contada a __gnd__, tambien desde ese mismo extremo va cocentado hacia la entrada de la de la __NOT__.
+
+-La salida de la __NOT__ va conctado a la otra entrada de la __AND__ junto a la __OR__
+
+-Desde la salida de la __AND__ va conectado al __anodo__ del __led__ y el __catodo__ del __led__ va con una resitencia hacia el __gnd__
+
+1.Los pulsadores generan entradas para el __OR__.
+
+2.La LDR genera otra entrada (por luz).
+
+3.La __NOT__ invierte algunas señales.
+
+4.La __AND__ combina las señales para decidir si el LED se enciende.
+
 
 
 
