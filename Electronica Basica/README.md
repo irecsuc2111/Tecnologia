@@ -361,9 +361,14 @@ Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entra
 |      1       |       0        |       1       |      0      |
 |      1       |       1        |       0       |      0      | 
 |      1       |       1        |       1       |      0      |
-
+ 
 
 ### Explicación del circuito: 
+
+Como se ve en este circuito estamos usuando __3 puertas logicas__ una __OR__, una __NOT__ y una __AND__.
+
+De primeras tenemos 2 __pulsadores__ que estan conectados en la puerta logica __OR__ la salida suya ira hacia la __AND__  y la otra puerta logica __NOT__ 
+
 
 
 
