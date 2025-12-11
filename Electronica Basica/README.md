@@ -348,6 +348,16 @@ Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entra
 | -------------            |     
 |  <img src="Imagenes/compuertas-logicas (1).png" width="300" height="300" /> |      
 
+
+
+|                       OR                                   |                     AND                                          |                         NOT                               |          
+| -----------    -----   ------------    -------------       |     ---------------------------------- -----------------------   |  ----------- --------------------------------             | 
+| <img src="Imagenes/or (1).png" width="300" height="300" /> |   <img src="Imagenes/and (1).png" width="300" height="300" />    |<img src="Imagenes/not (1).png" width="300" height="300" />|  
+
+
+
+
+
 ### Tabala de verdad:
 
 
@@ -364,6 +374,9 @@ Como sabemos la disposicion interna de la puerta logica __NAND__ tiene dos entra
  
 
 ### Explicación del circuito: 
+
+El objetivo de este circuito es que con la ayuda del __LDR__ y dos __pulsadores__ mediante 3 puertas logicas que haga funcionar el __diodo led__.
+
 
 Como se ve en este circuito estamos usuando __3 puertas logicas__ una __OR__, una __NOT__ y una __AND__.
 
