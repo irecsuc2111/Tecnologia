@@ -22,3 +22,7 @@
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
 |      <img src="Fotos/XOR.png" width="400" height="400" />                   |      <img src="Fotos/sensor de humedad (1).png" width="400" height="400" />                    |
+
+
+
+
