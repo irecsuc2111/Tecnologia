@@ -2,4 +2,4 @@
 
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
-|      <img src="Imagenes/XOR.png" width="400" height="400" />                   |      <img src="Imagenes/puerta_xor_int.png" width="400" height="400" />                    |
+|      <img src="Imagenes/XOR.png" width="400" height="400" />                   |      <img src="Fotos/servo.pir.png" width="400" height="400" />                    |
