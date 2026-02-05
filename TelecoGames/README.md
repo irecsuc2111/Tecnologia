@@ -2,7 +2,7 @@
 
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
-|      <img src="Imagenes/XOR.png" width="400" height="400" />                   |      <img src="Fotos/servo.pir.png" width="400" height="400" />                    |
+|      <img src="Fotos/sensor_pir.jpg" width="400" height="400" />                   |      <img src="Fotos/servo.pir.png" width="400" height="400" />                    |
 
 
 
@@ -32,7 +32,7 @@ Al empezar este programa creamos 2 variables una con __int__ llamada __sensor__ 
 
 En el __void setup__ unicamente indicamos la velocidad de transmision de datos a __9600__.
 
-En el __void loop__ de primeras indicamos que nuestra variable llamada __sensor__ esta conectado al pin __A0__ de nuestra placa de arduinos, 
+En el __void loop__ de primeras indicamos que nuestra variable llamada __sensor__ esta conectado al pin __A0__ de nuestra placa de arduinos y por ultimo indicamos con el __Serial.println__ que el valor que nos de en el sensor se pueda ver en el monitor serie.
 
 
 
