@@ -36,9 +36,17 @@ En el __void loop__ de primeras indicamos que nuestra variable llamada __sensor_
 
 
 
+## -Sensor de presion
+
+|       Montaje            |       Programa  |
+| -------------            |      -------------         |
+|      <img src="Fotos/ width="400" height="400" />                   |      <img src="Fotos/ width="400" height="400" />                    |
 
 
 
+## -Sensor LDR
 
-
+|       Montaje            |       Programa  |
+| -------------            |      -------------         |
+|      <img src="Fotos/ width="400" height="400" />                   |      <img src="Fotos/ width="400" height="400" />                    |
 
