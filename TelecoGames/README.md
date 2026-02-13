@@ -40,7 +40,7 @@ En el __void loop__ de primeras indicamos que nuestra variable llamada __sensor_
 
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
-|      <img src="Fotos/ width="400" height="400" />                   |      <img src="Fotos/ width="400" height="400" />                    |
+|      <img src="Fotos/sensor_presion.jpg" width="400" height="400" />                   |      <img src="Fotos/ width="400" height="400" />                    |
 
 
 
@@ -48,5 +48,5 @@ En el __void loop__ de primeras indicamos que nuestra variable llamada __sensor_
 
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
-|      <img src="Fotos/ width="400" height="400" />                   |      <img src="Fotos/ width="400" height="400" />                    |
+|      <img src="Fotos/ldr_real.jpg" width="400" height="400" />                   |      <img src="Fotos/ldr_code.png" width="400" height="400" />                    |
 
