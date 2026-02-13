@@ -21,7 +21,7 @@
 
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
-|      <img src="Fotos/sensor_humedad_montaje.jpg" width="400" height="400" />                   |      <img src="Fotos/sensor de humedad (1).png" width="400" height="400" />                    |
+|      <img src="Fotos/sensor_humedad_montaje.jpg" width="400" height="400" />                   |      <img src="Fotos/programacion de humedad.png" width="400" height="400" />                    |
 
 
 ### Objetivo: 
