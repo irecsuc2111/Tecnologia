@@ -111,7 +111,7 @@ para ver.
 
  |       Explicación del programa              |     
 |     -------------        |      
-|        <img src="Fotos/captura_presion.png" width="500" height="500" />               |   
+|        <img src="Fotos/captura_agua.png" width="500" height="500" />               |   
 
 
 
