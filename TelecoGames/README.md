@@ -95,3 +95,7 @@ Funciona con tres variables cuales son el valor de presión y el pin, la presió
 
 
 ##  -Sensor de temperatura
+
+|       Montaje            |       Programa  |
+| -------------            |      -------------         |
+|      <img src="Fotos/foto_real_templineal.jpg" width="400" height="400" />                   |      <img src="Fotos/sensor_agua (1).png" width="400" height="400" />                    |
