@@ -132,7 +132,7 @@ El objetivo es implantarlo en el invernadero para saber la temperatura que hace 
 
  |       Explicación del programa              |     
 |     -------------        |      
-|        <img src="Fotos/captura_presion.png" width="500" height="500" />               |   
+|        <img src="Fotos/captura_temperatura.png" width="500" height="500" />               |   
 
 
 
