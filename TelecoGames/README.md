@@ -64,6 +64,13 @@ El objetivo es implantarlo en el invernadero (en la entrada) para saber si algui
 
 
 
+ |       Explicación del programa              |     
+|     -------------        |      
+|        <img src="Fotos/captura_presion.png" width="500" height="500" />               |   
+
+
+
+
 
 
 
@@ -80,6 +87,10 @@ El objetivo es implantarlo en el invernadero (en la entrada) para saber si algui
 El objetivo es implantarlo en el invernadero para saber cuando le está dando sol y cuando no.
 
 ### -Explicación del programa:
+ 
+ |       Explicación del programa              |     
+|     -------------        |      
+|        <img src="Fotos/captura_presion.png" width="500" height="500" />               |   
 
 
 
@@ -96,8 +107,11 @@ El sensor de agua lo que hace es que cuando nosotros lo metemos en agua podamos 
 Nuestro objetivo con este sensor es implantarlo en nuestro invernadero
 para ver.
 
-
 ### -Explicación del programa:
+
+ |       Explicación del programa              |     
+|     -------------        |      
+|        <img src="Fotos/captura_presion.png" width="500" height="500" />               |   
 
 
 
@@ -115,6 +129,10 @@ Un sensor de temperatura lineal sirve para detectar aumentos de temperatura.
 El objetivo es implantarlo en el invernadero para saber la temperatura que hace dentro o si hay algún incendio.
 
 ### -Explicación del programa:
+
+ |       Explicación del programa              |     
+|     -------------        |      
+|        <img src="Fotos/captura_presion.png" width="500" height="500" />               |   
 
 
 
