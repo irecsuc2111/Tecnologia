@@ -53,23 +53,13 @@ En el __void loop__ de primeras indicamos que nuestra variable llamada __sensor_
 | -------------            |      -------------         |
 |      <img src="Fotos/sensor_presion.jpg" width="400" height="400" />                   |      <img src="Fotos/sesnsor_presion (2).png" width="400" height="400" />                    |
 
+### -Funcionamiento del sensor:
+Sirve para detectar una presión cual a detectar una mínima presión envíe la información a la placa y así la placa con esa información haga una cosa o otra. Pero su función es enviar la información a la placa.
 
+### -Objetivo:
+El objetivo es implantarlo en el invernadero (en la entrada) para saber si alguien ha entrado o no.
 
-### - ¿Como funciona?
- 
-Funciona conectando a una placa arduino y protoboard junto a una resistencia a GND, 5V y a un Pin (ejempl: 8) para que al presionar el circulo con la minima presión que tu programes lo detecte y envie la información a la placa de arduino o al monitor en la pantalla con la cifra que el sensor de presión detecte.
-
-### - ¿Para que sirve?
-
-Sirve para dectectar una presión cual a detectar una minima presión envie la información a la placa y asi la placa con esa información haga una cosa o otra. Pero su función es enviar la información a la placa.
-
-### - ¿De que componentes esta hecho?
-
-Esta compuesto de cableado, placa protoboard, placa arduino, resistencia, sensor de presión.
-
-### - ¿Como funciona el programa?
-
-Funciona con tres variables cuales son el valor de presión y el pin, la presión el void setup solo contiene un serial begin 9600 y el void loop valora la presión con analogRead y map ajusta la presión para que sea menos o más sensible a la presión que se le aporta y usa un SerialPrinting para que los datos que detecte la placa de presión lo mande a la pantalla de la consola de monitor de arduino con un delay de 500 milisegundos.
+### -Explicación del programa:
 
 
 
@@ -82,6 +72,13 @@ Funciona con tres variables cuales son el valor de presión y el pin, la presió
 | -------------            |      -------------         |
 |      <img src="Fotos/ldr_real.jpg" width="400" height="400" />                   |      <img src="Fotos/ldr_code.png" width="400" height="400" />                    |
 
+### -Funcionamiento del sensor:
+ Sirve para saber cuánta luminosidad detecta y la intensidad de la luz.
+
+### -Objetivo:
+El objetivo es implantarlo en el invernadero para saber cuando le está dando sol y cuando no.
+
+### -Explicación del programa:
 
 
 
@@ -91,6 +88,15 @@ Funciona con tres variables cuales son el valor de presión y el pin, la presió
 | -------------            |      -------------         |
 |      <img src="Fotos/sensor_agua_fot.jpg" width="400" height="400" />                   |      <img src="Fotos/sensor_agua (1).png" width="400" height="400" />                    |
 
+### -Funcionamiento del sensor:
+El sensor de agua lo que hace es que cuando nosotros lo metemos en agua podamos ver la cantidad de agua que hay en el recipiente que sea.
+
+### -Objetivo:
+Nuestro objetivo con este sensor es implantarlo en nuestro invernadero
+para ver.
+
+
+### -Explicación del programa:
 
 
 
@@ -99,3 +105,15 @@ Funciona con tres variables cuales son el valor de presión y el pin, la presió
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
 |      <img src="Fotos/foto_real_templineal.jpg" width="400" height="400" />                   |      <img src="Fotos/programacion_temperaturalineal_iker,adrian (2).png" width="400" height="400" />                    |
+
+
+###  -Funcionamiento del sensor:
+Un sensor de temperatura lineal sirve para detectar aumentos de temperatura.
+
+### -Objetivo:
+El objetivo es implantarlo en el invernadero para saber la temperatura que hace dentro o si hay algún incendio.
+
+### -Explicación del programa:
+
+
+
