@@ -90,7 +90,7 @@ El objetivo es implantarlo en el invernadero para saber cuando le está dando so
  
  |       Explicación del programa              |     
 |     -------------        |      
-|        <img src="Fotos/captura_presion.png" width="500" height="500" />               |   
+|        <img src="Fotos/captura_ldr.png" width="500" height="500" />               |   
 
 
 
