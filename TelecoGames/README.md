@@ -89,7 +89,7 @@ Funciona con tres variables cuales son el valor de presión y el pin, la presió
 
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
-|      <img src="Fotos/ldr_real.jpg" width="400" height="400" />                   |      <img src="Fotos/ldr_code.png" width="400" height="400" />                    |
+|      <img src="Fotos/sensor_agua_fot.jpg" width="400" height="400" />                   |      <img src="Fotos/sensor_agua (1).png" width="400" height="400" />                    |
 
 
 
