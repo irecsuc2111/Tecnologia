@@ -139,11 +139,16 @@ El objetivo es implantarlo en el invernadero para saber la temperatura que hace 
 
 Despues de haber trabajo con todos los sensores anteriores ahora ponemos en marcha un invernadero montado en 3D para poder poner aprueba todos los sensores.
 
-## -Vigas del invernadero
+## -Vigas del invernadero.
 
 
-## -Suelo del invernadero
+## -Suelo del invernadero.
 
+<img src="Fotos/Sizzling Tumelo-Luulia.png" width="400" height="400" /> 
 
-## -Montaje final del invernadero
+Hemos tenido que diseñar 12 suelos para nuestro invernadero __¿como estan diseñados?__ 
+
+Cada suelo tiene una medida de ancho y de largo de 15cm (150cm en tinkerkad), el montaje funciona mediante viseras y entradas
+
+## -Montaje final del invernadero.
 
