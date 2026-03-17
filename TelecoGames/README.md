@@ -148,10 +148,10 @@ Despues de haber trabajo con todos los sensores anteriores ahora ponemos en marc
 <img src="Fotos/Sizzling Tumelo-Luulia.png" width="400" height="400" /> 
   </p>
   
-Hemos tenido que diseñar 12 suelos para nuestro invernadero __¿como estan diseñados?__ 
+-Hemos tenido que diseñar 12 plataformas para nuestro invernadero, en las que nos hemos dividido entre el grupo
 
-Cada suelo tiene una medida de ancho y de largo de 15cm (150cm en tinkerkad). 
-El montaje funciona mediante viseras y entradas dependiendo de que en cual posición este puesto el suelo tendremos que crear una entrada o una visera 
+Cada plataforma tiene una medida de ancho y de largo de 15cm (150cm en tinkerkad). 
+El montaje funciona mediante viseras y entradas para poder unir las pltaformas de una forma sencilla.
 
 ## -Montaje final del invernadero.
 
