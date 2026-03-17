@@ -142,6 +142,11 @@ Despues de haber trabajo con todos los sensores anteriores ahora ponemos en marc
 ## -Vigas del invernadero.
 
 
+
+
+
+
+
 ## -Suelo del invernadero.
 
 |       Montaje            |       Programa  |
@@ -152,16 +157,23 @@ Despues de haber trabajo con todos los sensores anteriores ahora ponemos en marc
 
 
   
--Hemos tenido que diseñar 12 plataformas para nuestro invernadero, en las que nos hemos dividido entre el grupo
+-Hemos tenido que diseñar 12 plataformas en las que se cuentan cada fila del 1-4 y cada fila siendo A,B,C,D, en las que nos lo hemos dividido entre el grupo.
 
 Cada plataforma tiene una medida de ancho y de largo de 15cm (150cm en tinkerkad). 
-El montaje funciona mediante viseras y entradas para poder unir las pltaformas de una forma sencilla.
+
+El montaje funciona mediante viseras y entradas para poder unir las pltaformas de una forma sencilla. En el caso de 1A (la esquina) en el lado derecho tiene una visera para que encaje con el 2A que tiene un entrada y en la parte delantera de 1A tenemos otra visera para que pueda encajar con el 1B y asi con todas las demas piezas para que todas encajen correctamente y que no se muevan. 
+
+A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas y este todo conectado para que podamos cojerlo y que no se desmonte. 
+
+
 
 ## -Montaje final del invernadero.
 
 <p align="center">
-<img src="Fotos/invernadero_montado.png" width="400
- " height="500
+<img src="Fotos/invernadero_montado.png" width="600
+ " height="400
  " /> 
   </p>
+
+  Este es el montaje final de todo el invernadero diseñado en 3D
 
