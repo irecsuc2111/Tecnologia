@@ -144,9 +144,13 @@ Despues de haber trabajo con todos los sensores anteriores ahora ponemos en marc
 
 ## -Suelo del invernadero.
 
-<p align="center">
-<img src="Fotos/Sizzling Tumelo-Luulia.png" width="400" height="400" /> 
-  </p>
+|       Montaje            |       Programa  |
+| -------------            |      -------------         |
+|      <img src="Fotos/Sizzling Tumelo-Luulia.png" width="400" height="400" />                   |      <img src="Fotos/servo.pir.png" width="400" height="400" />                    |
+
+
+
+
   
 -Hemos tenido que diseñar 12 plataformas para nuestro invernadero, en las que nos hemos dividido entre el grupo
 
