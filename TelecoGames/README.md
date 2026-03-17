@@ -146,7 +146,7 @@ Despues de haber trabajo con todos los sensores anteriores ahora ponemos en marc
 
 |       Montaje            |       Programa  |
 | -------------            |      -------------         |
-|      <img src="Fotos/Sizzling Tumelo-Luulia.png" width="400" height="400" />                   |      <img src="Fotos/servo.pir.png" width="400" height="400" />                    |
+|      <img src="Fotos/Sizzling Tumelo-Luulia.png" width="400" height="400" />                   |      <img src="Fotos/TelecoGames/Fotos/Captura de pantalla 2026-02-19 223125.png" width="400" height="400" />                    |
 
 
 
