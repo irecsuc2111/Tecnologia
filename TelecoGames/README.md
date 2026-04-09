@@ -149,7 +149,7 @@ Despues de haber trabajo con todos los sensores anteriores ahora ponemos en marc
 
 ## -Suelo del invernadero.
 
-|       Montaje            |       Programa  |
+|       Montaje 3D           |       Montaje real  |
 | -------------            |      -------------         |
 |      <img src="Fotos/Sizzling Tumelo-Luulia.png" width="400" height="400" />                   |      <img src="Fotos/TelecoGames/Fotos/suelo_invernadero.png" width="400" height="400" />                    |
 
@@ -167,7 +167,7 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
 
 
 
-## -Montaje final del invernadero.
+## -Montaje final del invernadero 3D.
 
 <p align="center">
 <img src="Fotos/invernadero_montado.png" width="600
@@ -175,5 +175,13 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
  " /> 
   </p>
 
-  Este es el montaje final de todo el invernadero diseñado en 3D
+  Este es el montaje final de todo el invernadero diseñado en 3D.
 
+## -Montaje final del invernadero real.
+
+
+<p align="center">
+<img src="Fotos/invernadero_montado.png" width="600
+ " height="400
+ " /> 
+  </p>
