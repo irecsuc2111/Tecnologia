@@ -194,6 +194,11 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
 
 ### -Sensor cantidad de agua.
 
+<p align="center">
+<img src="Fotos/monta_invernadero_real.jpg" width="600
+ " height="400
+ " /> 
+  </p>
 
 
 
