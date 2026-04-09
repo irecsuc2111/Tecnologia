@@ -181,7 +181,9 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
 
 
 <p align="center">
-<img src="Fotos/invernadero_montado.png" width="600
+<img src="Fotos/monta_invernadero_real.jpg" width="600
  " height="400
  " /> 
   </p>
+
+ Este es el montaje final de todo el invernadero diseñado.
