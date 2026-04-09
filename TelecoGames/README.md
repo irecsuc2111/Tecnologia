@@ -187,3 +187,14 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
   </p>
 
  Este es el montaje final de todo el invernadero diseñado.
+
+
+## -Montaje y programación de los sensores.
+
+
+### -Sensor cantidad de agua.
+
+
+
+
+
