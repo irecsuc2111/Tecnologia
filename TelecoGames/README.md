@@ -196,7 +196,7 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
 
 ## -Programación de los sensores.
 
-### -Variables.
+### -Variables.      
 
 <p align="center">
 <img src="Fotos/variables" width="400
@@ -207,7 +207,7 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
 
 En el programa usamos varias variables:
 
-Las 4 primeras pertenecen al sensor de __temperatura__.
+-Las 4 primeras pertenecen al sensor de __temperatura__.
 
 __temperatura = A2;__: El pin en el que esta conectado en la placa de arduinos.
 
@@ -215,4 +215,7 @@ __entrada;__: El valor total que va a tener la temperatura
 
 __mapeo;__: Variable creada para poder hacer el mapeo.
 
-__led = 5;__ El pin del led que esta conectado a la placa de arduinos.
+__led = 5;__ El pin del led naranja que esta conectado a la placa de arduinos.
+
+
+
