@@ -206,6 +206,30 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
 
 ### CÓDIGO CONFIGURACIÓN MÓDULO BLUETOOTH COMO MAESTRO MEDIANTE EL MODO AT:
 
+<p align="center">
+<img src="Fotos/bluetooth (1).png" width="600
+ " height="400
+ " /> 
+  </p>
+
+
+
+### CÓDIGO MAESTRO:
+
+
+
+
+
+
+
+
+
+### CÓDIGO ESCLAVO:
+
+
+
+
+
 
 
 
