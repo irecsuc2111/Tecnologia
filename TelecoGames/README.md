@@ -236,7 +236,26 @@ __Void loop__:
   -Con este es lo mismo pero al reves si el **monitor serie** esta disponible _**if (Serial.available())**_ mandamos una señal del **monitor serie** al  **bleutooth**.
 
 
+### -Configuración mediante el modo AT :
 
+Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"KEY"** del **módulo HC-05** a **5V**, un a vez hecho, se deja presionado el botón reset y se conecta Arduino por USB al ordenador desde el que vamos a hacer la configuración. Acto seguido se escribe lo siguiente en el **Monitor Serie**:
+
+**ESCLAVO**:
+
+**AT**: Mandamos el codigo **AT** y nos tiene que responder con un **ok** esto significa que funciona.
+
+**AT+ROLE=0**: Este codigo forzamos a nuestro **modulo bluetooth** a que se comporte como el **esclavo** ya que le hemos puesto que va a ser el numero **0**.
+
+**AT+ADDR?**: Le pedimos que nos de su  clave **MAC** para nosotros despues poder poner esa clave en nuestro esclavo y que esten conectados entre si.
+
+
+**MAESTRO**:
+
+**AT**
+
+**AT+ROLE=1**
+
+**AT+BIND= "escribir directamente la dirección MAC del esclavo" (sustituir los ":" por ",")**
 
 
   
@@ -247,7 +266,6 @@ __Void loop__:
   
 
 
-__Void loop__:
 
 
 
