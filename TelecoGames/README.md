@@ -204,27 +204,51 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
  " /> 
   </p>
 
-### CÓDIGO CONFIGURACIÓN MÓDULO BLUETOOTH COMO MAESTRO MEDIANTE EL MODO AT:
+### CÓDIGO CONFIGURACIÓN MÓDULO BLUETOOTH MEDIANTE EL MODO AT:
 
 <p align="center">
 <img src="Fotos/bluetooth (1).png" width="600
  " height="400
  " /> 
-  </p>
-
-
-
-### CÓDIGO MAESTRO:
 
 
 
 
+  Este es el programa que se utiliza para configurar los __modulos BLUETOOTH__ de __maestro__ y __esclavo__, mediante el modo __AT__.
+  
+  -Para poder programar el programa primero tenemos que añadir su biblioteca correspondiente en este caso __#include <SoftwareSerial.h>__
+
+  -Usando la biblioteca creamos un variable que la llamamos __miBT__ ___(SoftwareSerial miBT(10, 11); // RX, TX)___ que la usamos para definir en que pines tenemos conectado el __modulo bluetooht__.
+
+__Void setup__:
+
+  -Configuramos la velocidad del ordenador a __9600 budios__ ___(Serial.begin(9600))___.
+  
+  -La velocidad del __modulo bluetooth__ a __38400__ ___(miBT.begin(38400))___ para poder hacer la configuración con el modo __AT__.
+
+  -Usamos el ___(Serial.println)___ para poder escribir dentro del monitor serie  y poder configurar los __modulos bluetooth__.
+
+__Void loop__:
+
+  -Si el **modulo bluetooth** esta dispnible _**if (miBT.available())**_  mandamos una señal del **bleutooth** al **monitor serie**
+  _**Serial.write(miBT.read());**_.
+
+  -Con este es lo mismo pero al reves si el **monitor serie** esta disponible _**if (Serial.available())**_ mandamos una señal del **monitor serie** al  **bleutooth**.
 
 
 
 
 
-### CÓDIGO ESCLAVO:
+  
+
+
+
+
+  
+
+
+__Void loop__:
+
 
 
 
