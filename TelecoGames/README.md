@@ -204,7 +204,7 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
  " /> 
   </p>
 
-### CÓDIGO CONFIGURACIÓN MÓDULO BLUETOOTH MEDIANTE EL MODO AT:
+### -CÓDIGO CONFIGURACIÓN MÓDULO BLUETOOTH MEDIANTE EL MODO AT:
 
 <p align="center">
 <img src="Fotos/bluetooth (1).png" width="600
@@ -240,7 +240,7 @@ __Void loop__:
 
 Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"KEY"** del **módulo HC-05** a **5V**, un a vez hecho, se deja presionado el botón reset y se conecta Arduino por USB al ordenador desde el que vamos a hacer la configuración. Acto seguido se escribe lo siguiente en el **Monitor Serie**:
 
-**ESCLAVO**:
+**-ESCLAVO**:
 
 **AT**: Mandamos el codigo **AT** y nos tiene que responder con un **ok** esto significa que funciona.
 
@@ -249,19 +249,20 @@ Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"K
 **AT+ADDR?**: Le pedimos que nos de su  clave **MAC** para nosotros despues poder poner esa clave en nuestro esclavo y que esten conectados entre si.
 
 
-**MAESTRO**:
+**-MAESTRO**:
 
-**AT**
+**AT**: Mandamos el codigo **AT** y nos tiene que responder con un **ok** esto significa que funciona.
 
-**AT+ROLE=1**
+**AT+ROLE=1**:  Este codigo forzamos a nuestro **modulo bluetooth** a que se comporte como el **maestro** ya que le hemos puesto que va a ser el numero **1**. 
 
-**AT+BIND= "escribir directamente la dirección MAC del esclavo" (sustituir los ":" por ",")**
+**AT+BIND= "escribir directamente la dirección MAC del esclavo" (sustituir los ":" por ",")**: Ponemos ese codigo y despues del igual ponemos la clave **MAC** que nos dio el esclavo, asi ya estan los dos conectados entre si.
 
 
   
 
 
 
+### -CÓDIGO MAESTRO:
 
   
 
