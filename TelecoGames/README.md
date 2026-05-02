@@ -264,10 +264,53 @@ Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"K
 
 ### -CÓDIGO MAESTRO:
 
-  
+
+  <p align="center">
+<img src="Fotos/mesatro.code..pdf" width="600
+ " height="400
+ " /> 
+
+
+**Variables**:
+
+ __-Variables sensor temperatura:__.
+
+__temperatura = A2;__: El pin en el que esta conectado en la placa de arduinos.
+
+__entrada;__: El valor total que va a tener la temperatura
+
+__mapeo;__: Variable creada para poder hacer el mapeo.
 
 
 
+
+**-Variables sensor humedad**
+
+**int pinsensorhumedad = A0;** :
+
+**int entradahumedad;** :
+
+**int humedad; //Datos humedad** :
+
+**-Pines salida**
+
+**int led = 5;** :
+
+**int rele = 2;** :
+
+**int ledagua=6;** :
+
+**-Variables sensor nivel de agua**
+
+**int pinsensoragua=A1;**
+
+**int entradaagua;**
+
+**int agua;** 
+
+
+
+__Void setup__:
 
 
 
