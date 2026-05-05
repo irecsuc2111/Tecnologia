@@ -204,7 +204,7 @@ A la vez cada plataforma tiene tiene un hueco para que podamos encajar las vigas
  " /> 
   </p>
 
-### -CÓDIGO CONFIGURACIÓN MÓDULO BLUETOOTH MEDIANTE EL MODO AT:
+## -CÓDIGO CONFIGURACIÓN MÓDULO BLUETOOTH MEDIANTE EL MODO AT:
 
 <p align="center">
 <img src="Fotos/bluetooth (1).png" width="600
@@ -262,7 +262,7 @@ Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"K
 
 
 
-### -CÓDIGO MAESTRO:
+## -CÓDIGO MAESTRO:
 
 
   <p align="center">
@@ -271,46 +271,61 @@ Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"K
  " /> 
 
 
-**Variables**:
+### Variables:
 
- __-Variables sensor temperatura:__.
+ ### -Variables sensor temperatura:
 
-__temperatura = A2;__: El pin en el que esta conectado en la placa de arduinos.
+__El valor total que va a tener la temperatura = A2;__: El pin en el que esta conectado en la placa de arduinos.
 
-__entrada;__: El valor total que va a tener la temperatura
+__entradatemperatura;__: El valor total que va a tener la temperatura.
 
-__mapeo;__: Variable creada para poder hacer el mapeo.
-
-
+__temperatura;__: Variable creada para poder hacer el mapeo.
 
 
-**-Variables sensor humedad**
 
-**int pinsensorhumedad = A0;** :
 
-**int entradahumedad;** :
+### -Variables sensor humedad:
 
-**int humedad; //Datos humedad** :
+**int pinsensorhumedad = A0;** :  El pin en el que esta conectado en la placa de arduinos.
 
-**-Pines salida**
+**int entradahumedad;** : El valor total que va a tener de la humedad.
 
-**int led = 5;** :
+**int humedad;** : Variable creada para poder hacer el mapeo.
 
-**int rele = 2;** :
 
-**int ledagua=6;** :
 
-**-Variables sensor nivel de agua**
+### -Pines salida:
 
-**int pinsensoragua=A1;**
+**int led = 5;** : El pin en el que esta conectado el led rojo en la placa de arduinos.
 
-**int entradaagua;**
+**int rele = 2;** : El pin en el que esta conectado el rele en la placa de arduinos.
 
-**int agua;** 
+**int ledagua=6;** : El pin en el que esta conectado el led azul en la placa de arduinos.
+
+
+
+### -Variables sensor nivel de agua:
+
+**int pinsensoragua=A1;** : El pin en el que esta conectado en la placa de arduinos.
+
+**int entradaagua;** : El valor total que va a tener de la humedad.
+
+**int agua;** : Variable creada para poder hacer el mapeo.
+
 
 
 
 __Void setup__:
+
+Ponemos que la velocidad del ordenador y del bluetooth sean de **9600 baudios**.
+
+Y los 3 pines que hemos puesto que van a ser de salida les ponemos el programa **pinMode(ledagua,OUTPUT);**, y asi con los otros dos.
+
+
+**Void loop**:
+
+Al iniciar creamos 3 mapeos (**agua, temperatura, humedad**):
+
 
 
 
