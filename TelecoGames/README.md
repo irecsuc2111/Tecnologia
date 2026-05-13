@@ -326,9 +326,34 @@ Y los 3 pines que hemos puesto que van a ser de salida les ponemos el programa *
 
 Al iniciar creamos 3 mapeos (**agua, temperatura, humedad**):
 
+**Agua:**
+
+Primeros empezamos diciendo que nuestra variiable llamada **entradaagua** va a ser igual al pin analogico **analogRead(pinsensoragua);** , y despues indicamos que la variable creada para el mapeo llamada **agua** va a tener el mismo valor que el mapeo que se haga **agua = map(entradaagua, 0, 1023, 0, 100);**  en donde hacemos una regla de 3 para que los valores son salgan concordando al que haya.
+
+**Temperatura:**
+
+Es igual que el anterior pero en este caso es mapeo es diferente debido a que la temperatura no se mide como los demas.
 
 
+**Humedad:**
 
+Es igual que el del agua.
+
+Ahora empezamos con toda la programación para que el montaje funcione.
+ 
+Primero ponemos in condicional **"if"** si preguntamos si donde esta nuestro sensor hay menos 30% de agua **"if (agua <= 30)"** si lo hay pues encendemos el led azul **digitalWrite(ledagua, HIGH);** indicando que hay poca agua, seguidamente mandamos una señal bluetooth numerica con el nuemro 1 **miBT.write(1)** y aparagamos el led rojo de la temperatura y el rele porque no tenemos agua suficiente para regar.
+
+**Nota: "el rele funciona al reves cuando pone high esta apagado y viceversa"**
+
+Ahora si nuestro nivel de agua es mas del 30% **"if (agua > 30)"** , es este caso apagamos el led indicando que hay sificiente nivel de agua y mandamos otra señal bluetooth con el numero 2.
+
+Si la humedad es menor o 50% podemos regar pero tenemos que comprobar si la temperatura es apta, por eso dentro de humedad creamos dos condionales de temperatura.
+
+Uno si la temperatura el es mayor de 50% **if (humedad <= 50)** encendemos el led de la temperatura para indicar que hace mucha calor y no podemos regar, a su vez mandamos una señal bluetooth con el numero 3 y apagamos en rele.
+
+Pero si la temperatura el menor del 50% **if (temperatura < 50)** apagamos el led de la temperatura indicando que no hace calor y podemos regar, a su vez enviamos una señal bluetooth con el numero 5 y encendemos el rele para poder regar.
+
+Y por ultimo si la humedad es mayor al 50% **if (humedad > 50)** apagamos el led de temperatura, madamos una señal bluetooth con el numero 5señal bluetooth con el numero 4 y apagamos el rele.
 
 
 
