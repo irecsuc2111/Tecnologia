@@ -380,7 +380,7 @@ Y ponemos los dos pines de salida **OUTPUT**.
 
 Primero mediante un condicional decimos si el dispositivo bluetooth llamado **miBT** esta disponible, si si lo esta pues creamos una variable llamada dato que va a ser igual a la señal bluetooth que nos llegue **int dato = miBT.read** y abajo ponemos que ese dato se vea en el monitor serie para aseguararnos de que los numeros que nos lleguen sean los correctos.
 
-Ya dependiendo de que numero nos llegue por bluetooth 
+Ya dependiendo de que numero nos llegue por bluetooth va a hacer una cosa diferente si nos llega el 1, el led de agua se enciende, si llegua el 2 led de agua se apagaa y asi con todos.
 
 
 
