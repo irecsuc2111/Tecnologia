@@ -355,7 +355,10 @@ Pero si la temperatura el menor del 50% **if (temperatura < 50)** apagamos el le
 
 Y por ultimo si la humedad es mayor al 50% **if (humedad > 50)** apagamos el led de temperatura, madamos una señal bluetooth con el numero 5señal bluetooth con el numero 4 y apagamos el rele.
 
+## -CÓDIGO MAESTRO:
 
-
-
+  <p align="center">
+<img src="Fotos/mesatro.code..pdf" width="600
+ " height="400
+ " /> 
 
