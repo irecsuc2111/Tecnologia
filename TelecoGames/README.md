@@ -273,6 +273,8 @@ Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"K
 
 ### Variables:
 
+-Usando la biblioteca creamos un variable que la llamamos __miBT__ ___(SoftwareSerial miBT(10, 11); // RX, TX)___ que la usamos para definir en que pines tenemos conectado el __modulo bluetooht__.
+
  ### -Variables sensor temperatura:
 
 __El valor total que va a tener la temperatura = A2;__: El pin en el que esta conectado en la placa de arduinos.
@@ -358,7 +360,28 @@ Y por ultimo si la humedad es mayor al 50% **if (humedad > 50)** apagamos el led
 ## -CÓDIGO MAESTRO:
 
   <p align="center">
-<img src="Fotos/mesatro.code..pdf" width="600
+<img src="Fotos/Captura de pantalla 2026-05-13 184500.png" width="300
  " height="400
  " /> 
+
+### Variables:
+
+-Usando la biblioteca creamos un variable que la llamamos __miBT__ ___(SoftwareSerial miBT(10, 11); // RX, TX)___ que la usamos para definir en que pines tenemos conectado el __modulo bluetooht__.
+
+-Creamos dos variables mas una para el led del agua y otra para el led de la temeperatura.
+
+__Void setup__:
+
+Ponemos que la velocidad del ordenador y del bluetooth sean de **9600 baudios**.
+
+Y ponemos los dos pines de salida **OUTPUT**.
+
+**Void loop**:
+
+Primero mediante un condicional decimos si el dispositivo bluetooth llamado **miBT** esta disponible, si si lo esta pues creamos una variable llamada dato que va a ser igual a la señal bluetooth que nos llegue **int dato = miBT.read** y abajo ponemos que ese dato se vea en el monitor serie para aseguararnos de que los numeros que nos lleguen sean los correctos.
+
+Ya dependiendo de que numero nos llegue por bluetooth 
+
+
+
 
