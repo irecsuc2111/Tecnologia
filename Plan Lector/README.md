@@ -43,4 +43,16 @@ Un ultrasonido esta conecttado en la parte delantera del coche para poder ver lo
 
 Hay condificador en la parte trasera del coche para poder calcular con exactamente la distancia que hay del obstaculo y poder girar perfecto.
 
+
+**El  codigo esta dividido en 3 programas:**
+
+
+**Apartado 1 (ultrasonido)**:
+
+
+**Apartado 2 (Odometry)**:
+
+
+
+
 **Los Tecnologicos** ya probraron todo lo nombrado antes en el simulador de tinkercad para poder comprobar todo y que no haya fallos.
