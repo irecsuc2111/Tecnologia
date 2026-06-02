@@ -266,7 +266,7 @@ Tanto para maestro como para esclavo hay que conectar la patilla **"EN"** o **"K
 
 
   <p align="center">
-<img src="Fotos/mesatro.code..pdf" width="600
+<img src="Fotos/maestro.png" width="600
  " height="400
  " /> 
 
@@ -383,5 +383,18 @@ Primero mediante un condicional decimos si el dispositivo bluetooth llamado **mi
 Ya dependiendo de que numero nos llegue por bluetooth va a hacer una cosa diferente si nos llega el 1, el led de agua se enciende, si llegua el 2 led de agua se apagaa y asi con todos.
 
 
+## -OBJETIVO DE DESARROLLO SOSTENIBLE (ODS):
 
 
+  <p align="center">
+<img src="Fotos/ODS.png" width="400
+ " height="400
+ " /> 
+
+En este trabajo nos hemos centrado en 3 ODS:
+
+**N3 Salud y bienestar**: Gracias al invernadero inteligente todas las frutas y verduras plantadas en el van salir como un producto exelente sin necesidad de productos quimicos.
+
+**N9 Industria, innovación y infraestructura**: El diseño de una nuava estructura
+
+**N12 Producción y consumo responsable**: Gracias al invernadero inteligente podemos controlar el uso extremo de agua porque este sisteme nos indica caundo las plantas necesitan agua o no.
